@@ -1,0 +1,13 @@
+[package]
+name = "timeseries"
+version = "0.1.0"
+authors = ["Krzysztof Langner <klangner@gmail.com>"]
+description = "time Series Processing"
+keywords = ["time series"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/carldata/timeseries"
+homepage = "https://github.com/carldata/timeseries"
+documentation = "https://docs.rs/timeseries"
+
+
+[dependencies]
