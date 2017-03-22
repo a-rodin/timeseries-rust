@@ -11,3 +11,4 @@ documentation = "https://docs.rs/timeseries"
 
 
 [dependencies]
+chrono = "0.3"
