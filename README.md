@@ -1,6 +1,6 @@
 # Time Series
 
-[![Crates.io](https://img.shields.io/crates/v/timeseries.svg)](https://crates.io/crates/timeseries) [![Crates.io](https://img.shields.io/crates/l/timeseries.svg)](https://github.com/klangner/timeseries/blob/master/LICENSE-MIT) [![docs.rs](https://docs.rs/timeseries/badge.svg)](https://docs.rs/timeseries/)
+[![Crates.io](https://img.shields.io/crates/v/timeseries.svg)](https://crates.io/crates/timeseries) [![Crates.io](https://img.shields.io/crates/l/timeseries.svg)](https://github.com/carldata/timeseries/blob/master/LICENSE-MIT) [![docs.rs](https://docs.rs/timeseries/badge.svg)](https://docs.rs/timeseries/)
 
 **timeseries is an early-stage open-source project**. It means that API can change at any time.
 If you think that this library can help you, then let us know. We can discuss future direction and try to stabilize the API.
