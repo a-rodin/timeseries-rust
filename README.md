@@ -10,8 +10,16 @@ The folder [examples](https://github.com/klangner/timeseries/tree/master/example
 
 # Features
    
-  * [ ] Load Time Series from csv
-  
+  * [ ] Reading and writing from CSV file
+  * [ ] Slice series
+  * [ ] Mapping over Series
+  * [ ] Folding Series
+  * [ ] Rolling window
+  * [ ] Re-sampling and groupBy
+  * Calculate statistics
+    * [ ] min, max
+    * [ ] median, variance, standard deviation
+  * [ ] Finding sessions (periods of activity)  
   
 # License
 
